@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f,d -size 0c -ls \n
+find . -type f,d -size 0c | ls -la |tr '-d' "\n"
