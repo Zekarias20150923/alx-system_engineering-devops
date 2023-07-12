@@ -1,1 +1,1 @@
-basics of bash scripting
+shell permissions
